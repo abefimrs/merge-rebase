@@ -1,2 +1,4 @@
 This is merge text
 	Another line added
+
+Rebase test with adding another line of code
