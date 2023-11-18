@@ -1,1 +1,2 @@
 This is merge text
+	Another line added
